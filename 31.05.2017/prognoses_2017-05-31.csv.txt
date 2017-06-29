@@ -1,0 +1,153 @@
+in_alterations,diseases,prognosis,sources,out_alterations
+FLT3 ITD,Acute Myeloid Leukemia,Unfavorable,NCCN|MCG,
+FLT3 ITD|NPM1 Exon 12 Mutation,Acute Myeloid Leukemia,Unfavorable,NCCN,
+CEBPA Biallelic Mutation|FLT3 ITD,Acute Myeloid Leukemia,Unfavorable,NCCN,
+NPM1 Exon 12 Mutation,Acute Myeloid Leukemia,Favorable,NCCN,Complex karyotype|FLT3 ITD|Monosomal karyotype|Very Complex karyotype
+CEBPA Biallelic Mutation,Acute Myeloid Leukemia,Favorable,NCCN,Complex karyotype|FLT3 ITD|Monosomal karyotype|Very Complex karyotype
+FLT3 D835E|FLT3 D835H|FLT3 D835N|FLT3 D835V|FLT3 D835Y|FLT3 I836D|FLT3 I836F|FLT3 I836H|FLT3 I836L|FLT3 I836M|FLT3 I836V|FLT3 ITD,Acute Myeloid Leukemia,Unfavorable,NCCN,
+FLT3 D835E|FLT3 D835H|FLT3 D835N|FLT3 D835V|FLT3 D835Y|FLT3 I836D|FLT3 I836F|FLT3 I836H|FLT3 I836L|FLT3 I836M|FLT3 I836V,Acute Myeloid Leukemia,Conflicting,NCCN,CEBPA Biallelic Mutation|NPM1 Exon 12 Mutation
+IDH1 R132C|IDH1 R132G|IDH1 R132H|IDH1 R132L|IDH1 R132P|IDH1 R132S,Acute Myeloid Leukemia,Conflicting,NCCN,
+IDH2 R140G|IDH2 R140L|IDH2 R140Q|IDH2 R140W|IDH2 R172K|IDH2 R172M|IDH2 R172S,Acute Myeloid Leukemia,Conflicting,NCCN,FLT3 ITD
+DNMT3A R882C|DNMT3A R882G|DNMT3A R882H|DNMT3A R882L|DNMT3A R882P|DNMT3A R882S|FLT3 ITD|NPM1 Exon 12 Mutation,Acute Myeloid Leukemia,Unfavorable,NCCN,
+DNMT3A R882C|DNMT3A R882G|DNMT3A R882H|DNMT3A R882L|DNMT3A R882P|DNMT3A R882S,Acute Myeloid Leukemia,Unfavorable,NCCN,NPM1 Exon 12 Mutation
+DNMT3A R882C|DNMT3A R882G|DNMT3A R882H|DNMT3A R882L|DNMT3A R882P|DNMT3A R882S|NPM1 Exon 12 Mutation,Acute Myeloid Leukemia,Favorable,NCCN,Complex karyotype|FLT3 ITD|Monosomal karyotype|Very Complex karyotype
+del(5)(q10)|del(7)(q10),Acute Myeloid Leukemia,Unfavorable,NCCN,
+KMT2A-MLLT3 Fusion|Normal karyotype|Trisomy 8,Acute Myeloid Leukemia,Intermediate risk,NCCN,BCR-ABL1 Fusion|Complex karyotype|DEK-NUP214 Fusion|Monosomal karyotype|Monosomy 5|Monosomy 7|Nullisomy 5|Nullisomy 7|RPN1-MECOM Fusion|RPN1-MECOM Inversion|StrucGain(11)(q23q33)|Very Complex karyotype|del(5)(q10)|del(7)(q10)|dup(11)(q23q33)
+CBFB-MYH11 Fusion|CBFB-MYH11 Inversion|PML-RARA Fusion,Acute Myeloid Leukemia,Favorable,NCCN,Complex karyotype|Monosomal karyotype|Very Complex karyotype
+KIT D816H|KIT D816I|KIT D816V|KIT D816Y|KIT Exon 8 Mutation|KIT N822K|KIT N822Y|RUNX1-RUNX1T1 Fusion,Acute Myeloid Leukemia,Unfavorable,MCG,
+ASXL1 Frameshift|ASXL1 Nonsense,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN,
+BCOR Frameshift|BCOR Nonsense,Myelodysplastic Syndromes,Unfavorable,MCG,
+DNMT3A Frameshift|DNMT3A Nonsense|DNMT3A R882C|DNMT3A R882G|DNMT3A R882H|DNMT3A R882L|DNMT3A R882P|DNMT3A R882S,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+ETV6 Frameshift|ETV6 Nonsense,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+EZH2 Frameshift|EZH2 Nonsense|EZH2 c.1864-c.2195 Missense,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,EZH2 Codon 646 Missense
+RUNX1 Frameshift|RUNX1 Nonsense|RUNX1 c.298-c.629 Missense,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+SF3B1 Codon 622 Missense|SF3B1 Codon 623 Missense|SF3B1 Codon 625 Missense|SF3B1 Codon 626 Missense|SF3B1 Codon 662 Missense|SF3B1 Codon 663 Missense|SF3B1 Codon 666 Missense|SF3B1 Codon 700 Missense|SF3B1 Codon 704 Missense|SF3B1 Codon 740 Missense|SF3B1 Codon 742 Missense|SF3B1 Codon 781 Missense,Myelodysplastic Syndromes,Favorable,NCCN|MCG,
+SRSF2 Codon 95 Missense,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+STAG2 Frameshift|STAG2 Nonsense,Myelodysplastic Syndromes,Unfavorable,MCG,
+TP53 Frameshift|TP53 Nonsense|TP53 c.1-c.137 Missense|TP53 c.142-c.212 Missense|TP53 c.217-c.1178 Missense|del(17)(p13),Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+U2AF1 Codon 157 Missense|U2AF1 Codon 34 Missense,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+ZRSR2 Frameshift|ZRSR2 Nonsense,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+NRAS G12A|NRAS G12C|NRAS G12D|NRAS G12R|NRAS G12S|NRAS G12V|NRAS G13A|NRAS G13C|NRAS G13D|NRAS G13R|NRAS G13V|NRAS Q61E|NRAS Q61H|NRAS Q61K|NRAS Q61L|NRAS Q61P|NRAS Q61R,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN,
+JAK2 V617F,Myelodysplastic/Myeloproliferative Neoplasm,Unknown,NCCN,
+CBL c.1096-c.1259 Missense,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN,
+SETBP1 Codon 858 Missense|SETBP1 Codon 868 Missense|SETBP1 Codon 869 Missense|SETBP1 Codon 870 Missense|SETBP1 Codon 871 Missense|SETBP1 Codon 880 Missense,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN,
+KRAS G12A|KRAS G12C|KRAS G12D|KRAS G12R|KRAS G12S|KRAS G12V|KRAS G13A|KRAS G13C|KRAS G13D|KRAS G13R|KRAS G13S|KRAS Q61H|KRAS Q61K|KRAS Q61L|KRAS Q61R,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN,
+TET2 Frameshift|TET2 Nonsense|TET2 c.3400-c.4331 Missense|TET2 c.5524-c.5762 Missense,Myelodysplastic/Myeloproliferative Neoplasm,May be favorable,NCCN|MCG,
+MPL W515K|MPL W515L,Myelodysplastic/Myeloproliferative Neoplasm,Unknown,NCCN,
+PTPN11 Exon 13 Mutation|PTPN11 Exon 3 Mutation,Myelodysplastic/Myeloproliferative Neoplasm,Unknown,NCCN,
+NF1 Frameshift|NF1 Nonsense,Myelodysplastic/Myeloproliferative Neoplasm,Unknown,NCCN,
+IKZF1 Frameshift|IKZF1 Nonsense,Myelodysplastic/Myeloproliferative Neoplasm,Unknown,NCCN,BCR-ABL1 Fusion
+Trisomy 19|Trisomy 8|del(7)(q10)|i(17)(q10),Myelodysplastic Syndromes,Intermediate risk,NCCN,Monosomy 7|RPN1-MECOM Fusion|RPN1-MECOM Inversion|Very Complex karyotype|del(3)(q10)
+Loss of Y|del(11)(q23)|del(12)(p10)|del(20)(q10)|del(5)(q31q33)|StrucLoss(5)(q33q33),Myelodysplastic Syndromes,Favorable,NCCN,Complex karyotype|Monosomal karyotype|Monosomy 7|TP53 Frameshift|TP53 c.142-c.212 Missense|TP53 c.1-c.137 Missense|TP53 c.217-c.1178 Missense|TP53 Nonsense|Very Complex karyotype|del(17)(p13)
+FLT3 D835E|FLT3 D835H|FLT3 D835N|FLT3 D835V|FLT3 D835Y|FLT3 I836D|FLT3 I836F|FLT3 I836H|FLT3 I836L|FLT3 I836M|FLT3 I836V|PML-RARA Fusion,Acute Promyelocytic Leukemia,Unfavorable,NCCN,
+FLT3 D835E|FLT3 D835H|FLT3 D835N|FLT3 D835V|FLT3 D835Y|FLT3 I836D|FLT3 I836F|FLT3 I836H|FLT3 I836L|FLT3 I836M|FLT3 I836V|NPM1 Exon 12 Mutation,Acute Myeloid Leukemia,May be favorable,NCCN,Complex karyotype|FLT3 ITD|Monosomal karyotype|Very Complex karyotype
+CEBPA Biallelic Mutation|FLT3 D835E|FLT3 D835H|FLT3 D835N|FLT3 D835V|FLT3 D835Y|FLT3 I836D|FLT3 I836F|FLT3 I836H|FLT3 I836L|FLT3 I836M|FLT3 I836V,Acute Myeloid Leukemia,May be favorable,NCCN,Complex karyotype|FLT3 ITD|Monosomal karyotype|Very Complex karyotype
+CEBPA Biallelic Mutation|NPM1 Exon 12 Mutation|TET2 Frameshift|TET2 Nonsense|TET2 c.3310-c.4434 Missense|TET2 c.5533-c.6005 Missense,Acute Myeloid Leukemia,Unfavorable,NCCN,
+RUNX1 Frameshift|RUNX1 Nonsense|RUNX1 c.170-c.1439 Missense|RUNX1 c.97-c.164 Missense,Acute Myeloid Leukemia,Unfavorable,NCCN,CEBPA Biallelic Mutation|NPM1 Exon 12 Mutation
+ASXL1 Frameshift|ASXL1 Nonsense,Acute Myeloid Leukemia,Unfavorable,NCCN,CEBPA Biallelic Mutation|NPM1 Exon 12 Mutation
+Complex karyotype|Monosomal karyotype|Monosomy 7|Nullisomy 7|RPN1-MECOM Fusion|RPN1-MECOM Inversion|Very Complex karyotype|del(3)(q10),Myelodysplastic Syndromes,Unfavorable,NCCN,
+,"Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",Unfavorable,NCCN,BCR-ABL1 Fusion
+BCR-ABL1 Fusion,Acute Lymphoblastic Leukemia,Unfavorable,NCCN,
+ETV6-RUNX1 Fusion,Acute Lymphoblastic Leukemia,Favorable,NCCN,
+Complex karyotype|IGH-MYC Fusion|KMT2A-AFF1 Fusion,Acute Lymphoblastic Leukemia,Unfavorable,NCCN,BCR-ABL1 Fusion
+Hyperdiploidy,Acute Lymphoblastic Leukemia,Favorable,NCCN,
+NOTCH1 Frameshift|NOTCH1 Nonsense,Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+BCR-ABL1 Fusion|DEK-NUP214 Fusion|KMT2A Fusion|RPN1-MECOM Fusion|RPN1-MECOM Inversion,Acute Myeloid Leukemia,Unfavorable,NCCN,KMT2A-MLLT3 Fusion
+ASXL1 Frameshift|ASXL1 Nonsense,Chronic Myelomonocytic Leukemia,Unfavorable,NCCN,
+DNMT3A Frameshift|DNMT3A Nonsense|DNMT3A R882C|DNMT3A R882G|DNMT3A R882H|DNMT3A R882L|DNMT3A R882P|DNMT3A R882S,Refractory anemia with ring sideroblasts (RARS),Unfavorable,NCCN|MCG,
+DNMT3A Frameshift|DNMT3A Nonsense|DNMT3A R882C|DNMT3A R882G|DNMT3A R882H|DNMT3A R882L|DNMT3A R882P|DNMT3A R882S,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,NCCN|MCG,
+DNMT3A Frameshift|DNMT3A Nonsense|DNMT3A R882C|DNMT3A R882G|DNMT3A R882H|DNMT3A R882L|DNMT3A R882P|DNMT3A R882S,Refractory Anemia with Excess Blasts,Unfavorable,NCCN|MCG,
+EZH2 Frameshift|EZH2 Nonsense|EZH2 c.1864-c.2195 Missense,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN,EZH2 Codon 646 Missense
+EZH2 Frameshift|EZH2 Nonsense|EZH2 c.1864-c.2195 Missense,Chronic Myelomonocytic Leukemia,Unfavorable,NCCN,EZH2 Codon 646 Missense
+NF1 Frameshift|NF1 Nonsense,Juvenile Myelomonocytic Leukemia,Unknown,NCCN,
+RUNX1 Frameshift|RUNX1 Nonsense|RUNX1 c.298-c.629 Missense,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,NCCN|MCG,
+RUNX1 Frameshift|RUNX1 Nonsense|RUNX1 c.298-c.629 Missense,Refractory Anemia with Excess Blasts,Unfavorable,NCCN|MCG,
+SF3B1 Codon 622 Missense|SF3B1 Codon 623 Missense|SF3B1 Codon 625 Missense|SF3B1 Codon 626 Missense|SF3B1 Codon 662 Missense|SF3B1 Codon 663 Missense|SF3B1 Codon 666 Missense|SF3B1 Codon 700 Missense|SF3B1 Codon 704 Missense|SF3B1 Codon 740 Missense|SF3B1 Codon 742 Missense|SF3B1 Codon 781 Missense,Refractory anemia with ring sideroblasts (RARS),Favorable,NCCN|MCG,
+SF3B1 Codon 622 Missense|SF3B1 Codon 623 Missense|SF3B1 Codon 625 Missense|SF3B1 Codon 626 Missense|SF3B1 Codon 662 Missense|SF3B1 Codon 663 Missense|SF3B1 Codon 666 Missense|SF3B1 Codon 700 Missense|SF3B1 Codon 704 Missense|SF3B1 Codon 740 Missense|SF3B1 Codon 742 Missense|SF3B1 Codon 781 Missense,Myelodysplastic/Myeloproliferative Neoplasm,Favorable,NCCN|MCG,
+SF3B1 Codon 622 Missense|SF3B1 Codon 623 Missense|SF3B1 Codon 625 Missense|SF3B1 Codon 626 Missense|SF3B1 Codon 662 Missense|SF3B1 Codon 663 Missense|SF3B1 Codon 666 Missense|SF3B1 Codon 700 Missense|SF3B1 Codon 704 Missense|SF3B1 Codon 740 Missense|SF3B1 Codon 742 Missense|SF3B1 Codon 781 Missense,Refractory Anemia with Ringed Sideroblasts associated with marked Thrombocytosis (RARS-T),Favorable,NCCN|MCG,
+SRSF2 Codon 95 Missense,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN|MCG,
+SRSF2 Codon 95 Missense,Chronic Myelomonocytic Leukemia,Unfavorable,NCCN|MCG,
+SRSF2 Codon 95 Missense,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,NCCN|MCG,
+SRSF2 Codon 95 Missense,Refractory Anemia with Excess Blasts,Unfavorable,NCCN|MCG,
+TET2 Frameshift|TET2 Nonsense|TET2 c.3400-c.4331 Missense|TET2 c.5524-c.5762 Missense,Chronic Myelomonocytic Leukemia,May be favorable,NCCN|MCG,
+U2AF1 Codon 157 Missense|U2AF1 Codon 34 Missense,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,NCCN|MCG,
+U2AF1 Codon 157 Missense|U2AF1 Codon 34 Missense,Refractory Anemia with Excess Blasts,Unfavorable,NCCN|MCG,
+NRAS G12A|NRAS G12C|NRAS G12D|NRAS G12R|NRAS G12S|NRAS G12V|NRAS G13A|NRAS G13C|NRAS G13D|NRAS G13R|NRAS G13V|NRAS Q61E|NRAS Q61H|NRAS Q61K|NRAS Q61L|NRAS Q61P|NRAS Q61R,Juvenile Myelomonocytic Leukemia,Unfavorable,NCCN,
+NRAS G12A|NRAS G12C|NRAS G12D|NRAS G12R|NRAS G12S|NRAS G12V|NRAS G13A|NRAS G13C|NRAS G13D|NRAS G13R|NRAS G13V|NRAS Q61E|NRAS Q61H|NRAS Q61K|NRAS Q61L|NRAS Q61P|NRAS Q61R,Chronic Myelomonocytic Leukemia,Unfavorable,NCCN,
+CBL c.1096-c.1259 Missense,Juvenile Myelomonocytic Leukemia,Unfavorable,NCCN,
+CBL c.1096-c.1259 Missense,Chronic Myelomonocytic Leukemia,Unfavorable,NCCN,
+SETBP1 Codon 858 Missense|SETBP1 Codon 868 Missense|SETBP1 Codon 869 Missense|SETBP1 Codon 870 Missense|SETBP1 Codon 871 Missense|SETBP1 Codon 880 Missense,Chronic Myelomonocytic Leukemia,Unfavorable,NCCN,
+SETBP1 Codon 858 Missense|SETBP1 Codon 868 Missense|SETBP1 Codon 869 Missense|SETBP1 Codon 870 Missense|SETBP1 Codon 871 Missense|SETBP1 Codon 880 Missense,Juvenile Myelomonocytic Leukemia,Unfavorable,NCCN,
+KRAS G12A|KRAS G12C|KRAS G12D|KRAS G12R|KRAS G12S|KRAS G12V|KRAS G13A|KRAS G13C|KRAS G13D|KRAS G13R|KRAS G13S|KRAS Q61H|KRAS Q61K|KRAS Q61L|KRAS Q61R,Juvenile Myelomonocytic Leukemia,Unfavorable,NCCN,
+PTPN11 Exon 13 Mutation|PTPN11 Exon 3 Mutation,Juvenile Myelomonocytic Leukemia,Unknown,NCCN,
+MPL W515K|MPL W515L,Refractory Anemia with Ringed Sideroblasts associated with marked Thrombocytosis (RARS-T),Unknown,NCCN,
+ASXL1 Frameshift,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+ASXL1 Frameshift|ASXL1 Nonsense,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,NCCN|MCG,
+ASXL1 Frameshift|ASXL1 Nonsense,Refractory Anemia with Excess Blasts,Unfavorable,NCCN|MCG,
+BCOR Frameshift|BCOR Nonsense,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,MCG,
+BCOR Frameshift|BCOR Nonsense,Refractory Anemia with Excess Blasts,Unfavorable,MCG,
+EZH2 Frameshift|EZH2 Nonsense|EZH2 c.1864-c.2195 Missense,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,NCCN|MCG,EZH2 Codon 646 Missense
+EZH2 Frameshift|EZH2 Nonsense|EZH2 c.1864-c.2195 Missense,Refractory Anemia with Excess Blasts,Unfavorable,NCCN|MCG,EZH2 Codon 646 Missense
+STAG2 Frameshift|STAG2 Nonsense,Refractory Cytopenia with Multilineage Dysplasia,Unfavorable,MCG,
+STAG2 Frameshift|STAG2 Nonsense,Refractory Anemia with Excess Blasts,Unfavorable,MCG,
+TP53 Frameshift|TP53 Nonsense|TP53 c.1-c.137 Missense|TP53 c.142-c.212 Missense|TP53 c.217-c.1178 Missense|del(17)(p13)|del(5)(q31q33),Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+TP53 Frameshift|TP53 Nonsense|TP53 c.1-c.137 Missense|TP53 c.142-c.212 Missense|TP53 c.217-c.1178 Missense|del(17)(p13),Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+SF3B1 Exon 14 Mutation|SF3B1 Exon 15 Mutation|SF3B1 Exon 16 Mutation|SF3B1 Exon 17 Mutation|SF3B1 Exon 18 Mutation,Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+JAK2 V617F,Refractory Anemia with Ringed Sideroblasts associated with marked Thrombocytosis (RARS-T),Unknown,NCCN,
+JAK2 V617F,Myeloproliferative Neoplasm,Unknown,MCG,
+JAK2 V617F,Polycythemia Vera,Unknown,MCG,
+JAK2 V617F,Primary Myelofibrosis,Unknown,MCG,
+JAK2 V617F,Essential Thrombocythemia,Unknown,MCG,
+IKZF1 Frameshift|IKZF1 Nonsense,"Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",Unknown,NCCN,BCR-ABL1 Fusion
+IKZF1 Frameshift|IKZF1 Nonsense,Chronic Myelomonocytic Leukemia,Unknown,NCCN,BCR-ABL1 Fusion
+Monosomy 7|del(7)(q10),Myelodysplastic Syndromes,Unfavorable,NCCN,
+,Myelodysplastic/Myeloproliferative Neoplasm,Unfavorable,NCCN,BCR-ABL1 Fusion
+CBFB-MYH11 Fusion|CBFB-MYH11 Inversion|KIT D816H|KIT D816I|KIT D816V|KIT D816Y|KIT Exon 8 Mutation|KIT N822K|KIT N822Y,Acute Myeloid Leukemia,Intermediate risk,NCCN,
+ASXL1 Frameshift|ASXL1 Nonsense,Acute Myeloid Leukemia,Unfavorable,NCCN,
+CBFB-MYH11 Fusion|CBFB-MYH11 Inversion|FLT3 ITD|RUNX1-RUNX1T1 Fusion,Acute Myeloid Leukemia,May be favorable,MCG,
+CBFB-MYH11 Inversion|Trisomy 22,Acute Myeloid Leukemia,May be favorable,NCCN,
+CBFB-MYH11 Inversion|Trisomy 8,Acute Myeloid Leukemia,Unfavorable,NCCN,
+StrucLoss(5)(q31q33)|del(5)(q31q33),Myelodysplastic Syndromes,May be favorable,NCCN,Complex karyotype|Monosomal karyotype|Monosomy 7|TP53 Frameshift|TP53 Nonsense|TP53 c.1-c.137 Missense|TP53 c.142-c.212 Missense|TP53 c.217-c.1178 Missense|Very Complex karyotype|del(17)(p13)
+Monosomy 5|Monosomy 7,Acute Myeloid Leukemia,Unfavorable,NCCN,
+ASXL1 Nonsense,Myelodysplastic Syndromes,Unfavorable,NCCN|MCG,
+Complex karyotype|Monosomal karyotype|Very Complex karyotype,Acute Myeloid Leukemia,Unfavorable,NCCN,CBFB-MYH11 Fusion|CBFB-MYH11 Inversion|PML-RARA Fusion|RUNX1-RUNX1T1 Fusion
+FLT3 ITD|PML-RARA Fusion,Acute Myeloid Leukemia,Unfavorable,NCCN,
+FLT3 ITD|PML-RARA Fusion,Acute Promyelocytic Leukemia,Unfavorable,NCCN,
+del(12)(p10)|del(20)(q10)|del(5)(q31q33),Myelodysplastic Syndromes,Favorable,NCCN,Complex karyotype|Monosomal karyotype|Monosomy 7|TP53 Frameshift|TP53 Nonsense|TP53 c.1-c.137 Missense|TP53 c.142-c.212 Missense|TP53 c.217-c.1178 Missense|Very Complex karyotype|del(17)(p13)
+PRPF8 A687P|PRPF8 Frameshift|PRPF8 G1750E|PRPF8 Nonsense,Myelodysplastic Syndromes,Unfavorable,NCCN,
+RUNX1-RUNX1T1 Fusion,Acute Myeloid Leukemia,Favorable,NCCN,Complex karyotype|KIT D816H|KIT D816I|KIT D816V|KIT D816Y|KIT Exon 8 Mutation|KIT N822K|KIT N822Y|Monosomal karyotype|Very Complex karyotype
+StrucGain(11)(q23q33)|dup(11)(q23q33),Acute Myeloid Leukemia,Unfavorable,NCCN,
+del(11)(q10),Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+Monosomy 17|Nullisomy 17|del(17)(p13),Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+Complex karyotype|Very Complex karyotype,Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+Normal karyotype|Trisomy 12,Chronic Lymphocytic Leukemia,Intermediate risk,NCCN,Complex karyotype|Very Complex karyotype
+del(13)(q10),Chronic Lymphocytic Leukemia,Favorable,NCCN,Complex karyotype|Monosomal karyotype|Very Complex karyotype
+ATM Frameshift|ATM Nonsense|del(11)(q10),Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+BIRC3 Frameshift|BIRC3 Nonsense,Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+del(1)(p36),Mature B-Cell Lymphoma/Leukemia,Favorable,NCCN,
+del(1)(p36),Follicular Lymphoma,Favorable,NCCN,
+,Mature B-Cell Lymphoma/Leukemia,Favorable,NCCN,BCL6 Fusion|IGH-BCL2 Fusion
+,Follicular Lymphoma,Favorable,NCCN,BCL2 Fusion|BCL6 Fusion
+IGH-BCL2 Fusion,Mature B-Cell Lymphoma/Leukemia,Favorable,NCCN,
+IGH-BCL2 Fusion,Follicular Lymphoma,Favorable,NCCN,
+BCL6 Fusion|IGH-BCL2 Fusion,Follicular Lymphoma,Unfavorable,NCCN,
+BCL6 Fusion|IGH-BCL2 Fusion,Mature B-Cell Lymphoma/Leukemia,Unfavorable,NCCN,
+,Follicular Lymphoma,Favorable,NCCN,BCL6 Fusion|IGH-BCL2 Fusion
+BCL6 Expression,Follicular Lymphoma,Favorable,NCCN,BCL2 Expression|IGH-BCL2 Fusion
+BCL6 Expression,Mature B-Cell Lymphoma/Leukemia,Favorable,NCCN,BCL2 Expression|IGH-BCL2 Fusion
+BCL2 Overexpression|FOXP1 Overexpression|IRF4-MUM1 Fusion,Diffuse Large B-Cell Lymphoma,Unfavorable,NCCN,
+BCL2 Overexpression|FOXP1 Overexpression|IRF4-MUM1 Fusion,Mature B-Cell Lymphoma/Leukemia,Unfavorable,NCCN,
+CCND1-IGH Fusion,Mature B-Cell Lymphoma/Leukemia,Unfavorable,NCCN,
+CCND1-IGH Fusion,Mantle Cell Lymphoma,Unfavorable,NCCN,
+BCL2 Fusion|MYC Fusion,Mature B-Cell Lymphoma/Leukemia,Unfavorable,NCCN,
+BCL2 Fusion|MYC Fusion,Diffuse Large B-Cell Lymphoma,Unfavorable,NCCN,
+ALK Fusion,Mature T-Cell and NK-Cell Lymphoma/Leukemia,Favorable,NCCN,
+ALK Fusion,Anaplastic Large Cell Lymphoma,Favorable,NCCN,
+IGH Fusion,Chronic Lymphocytic Leukemia,Unfavorable,NCCN,
+BCL2 Fusion|MYC Fusion,"B-Cell Lymphoma, Unclassifiable, with Features Intermediate between Diffuse Large B-Cell Lymphoma and Classical Hodgkin Lymphoma",Unfavorable,NCCN,
+MTCP1 Fusion|MTCP1 Overexpression|TCL1A Fusion|TCL1A Overexpression,Mature T-Cell and NK-Cell Lymphoma/Leukemia,Unfavorable,NCCN,
+MTCP1 Fusion|MTCP1 Overexpression|TCL1A Fusion|TCL1A Overexpression,T-Cell Prolymphocytic Leukemia (T-PLL),Unfavorable,NCCN,
+ATM Frameshift|ATM Nonsense|MTCP1 Fusion|MTCP1 Overexpression|StrucGain(8)(q10qter)|TCL1A Fusion|TCL1A Overexpression|Trisomy 8|dup(8)(q10qter),Mature T-Cell and NK-Cell Lymphoma/Leukemia,Unfavorable,NCCN,
+ATM Frameshift|ATM Nonsense|MTCP1 Fusion|MTCP1 Overexpression|StrucGain(8)(q10qter)|TCL1A Fusion|TCL1A Overexpression|Trisomy 8|dup(8)(q10qter),T-Cell Prolymphocytic Leukemia (T-PLL),Unfavorable,NCCN,
+MYD88 L265P,Mature B-Cell Lymphoma/Leukemia,Unfavorable,NCCN,
+MYD88 L265P,Mature B-Cell Non-Hodgkin Lymphoma,Unfavorable,NCCN,

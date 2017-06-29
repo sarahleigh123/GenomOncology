@@ -1,0 +1,493 @@
+url,diseases,alterations
+http://mycancergenome.org/content/disease/acute-lymphoblastic-leukemia/crlf2/199/,Acute Lymphoblastic Leukemia,CRLF2 F232C
+http://mycancergenome.org/content/disease/acute-lymphoblastic-leukemia/crlf2/208/,Acute Lymphoblastic Leukemia,CRLF2 Fusion
+http://mycancergenome.org/content/disease/acute-lymphoblastic-leukemia/jak2/200/,Acute Lymphoblastic Leukemia,JAK2 R683G
+http://mycancergenome.org/content/disease/acute-lymphoblastic-leukemia/jak2/201/,Acute Lymphoblastic Leukemia,JAK2 R683S
+http://mycancergenome.org/content/disease/acute-lymphoblastic-leukemia/jak2/202/,Acute Lymphoblastic Leukemia,JAK2 R683S
+http://mycancergenome.org/content/disease/acute-lymphoblastic-leukemia/jak2/203/,Acute Lymphoblastic Leukemia,JAK2 R683T
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/cbfb-myh11/,Acute Myeloid Leukemia,CBFB-MYH11 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/cbfb-myh11/258/,Acute Myeloid Leukemia,CBFB-MYH11 Inversion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/cbfb-myh11/252/,Acute Myeloid Leukemia,CBFB-MYH11 Translocation
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dek-nup214/,Acute Myeloid Leukemia,DEK-NUP214 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dek-nup214/255/,Acute Myeloid Leukemia,DEK-NUP214 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dnmt3a/291/,Acute Myeloid Leukemia,DNMT3A R882C
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dnmt3a/295/,Acute Myeloid Leukemia,DNMT3A R882G
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dnmt3a/293/,Acute Myeloid Leukemia,DNMT3A R882H
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dnmt3a/296/,Acute Myeloid Leukemia,DNMT3A R882L
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dnmt3a/294/,Acute Myeloid Leukemia,DNMT3A R882P
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/dnmt3a/292/,Acute Myeloid Leukemia,DNMT3A R882S
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/281/,Acute Myeloid Leukemia,FLT3 D835A
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/283/,Acute Myeloid Leukemia,FLT3 D835E
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/288/,Acute Myeloid Leukemia,FLT3 D835E
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/278/,Acute Myeloid Leukemia,FLT3 D835H
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/279/,Acute Myeloid Leukemia,FLT3 D835N
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/282/,Acute Myeloid Leukemia,FLT3 D835V
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/280/,Acute Myeloid Leukemia,FLT3 D835Y
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/286/,Acute Myeloid Leukemia,FLT3 I836D
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/289/,Acute Myeloid Leukemia,FLT3 I836F
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/287/,Acute Myeloid Leukemia,FLT3 I836H
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/284/,Acute Myeloid Leukemia,FLT3 I836L
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/290/,Acute Myeloid Leukemia,FLT3 I836M
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/285/,Acute Myeloid Leukemia,FLT3 I836V
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/flt3/277/,Acute Myeloid Leukemia,FLT3 ITD
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh1/260/,Acute Myeloid Leukemia,IDH1 R132C
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh1/261/,Acute Myeloid Leukemia,IDH1 R132G
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh1/263/,Acute Myeloid Leukemia,IDH1 R132H
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh1/264/,Acute Myeloid Leukemia,IDH1 R132L
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh1/265/,Acute Myeloid Leukemia,IDH1 R132P
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh1/262/,Acute Myeloid Leukemia,IDH1 R132S
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/269/,Acute Myeloid Leukemia,IDH2 R140G
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/268/,Acute Myeloid Leukemia,IDH2 R140L
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/266/,Acute Myeloid Leukemia,IDH2 R140Q
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/267/,Acute Myeloid Leukemia,IDH2 R140W
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/270/,Acute Myeloid Leukemia,IDH2 R172K
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/271/,Acute Myeloid Leukemia,IDH2 R172M
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/272/,Acute Myeloid Leukemia,IDH2 R172S
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/kit/84/,Acute Myeloid Leukemia,KIT D816H
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/kit/276/,Acute Myeloid Leukemia,KIT D816I
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/kit/275/,Acute Myeloid Leukemia,KIT D816V
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/kit/274/,Acute Myeloid Leukemia,KIT D816Y
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/kit/273/,Acute Myeloid Leukemia,KIT Exon 8 Mutation
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/mll-mllt3/,Acute Myeloid Leukemia,KMT2A-MLLT3 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/mll-mllt3/254/,Acute Myeloid Leukemia,KMT2A-MLLT3 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/pml-rara/,Acute Myeloid Leukemia,PML-RARA Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/pml-rara/253/,Acute Myeloid Leukemia,PML-RARA Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/rbm15-mkl1/,Acute Myeloid Leukemia,RBM15-MKL1 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/rbm15-mkl1/257/,Acute Myeloid Leukemia,RBM15-MKL1 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/rpn1-evi1/259/,Acute Myeloid Leukemia,RPN1-EVI1 Translocation
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/rpn1-evi1/,Acute Myeloid Leukemia,RPN1-MECOM Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/rpn1-evi1/256/,Acute Myeloid Leukemia,RPN1-MECOM Inversion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/runx1-runx1t1/,Acute Myeloid Leukemia,RUNX1-RUNX1T1 Fusion
+http://mycancergenome.org/content/disease/acute-myeloid-leukemia/runx1-runx1t1/251/,Acute Myeloid Leukemia,RUNX1-RUNX1T1 Fusion
+http://mycancergenome.org/content/disease/anaplastic-large-cell-lymphoma/alk/66/,Anaplastic Large Cell Lymphoma,ALK Fusion
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/171/,Basal Cell Carcinoma,SMO A652V
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/164/,Basal Cell Carcinoma,SMO A68V
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/163/,Basal Cell Carcinoma,SMO D473H
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/168/,Basal Cell Carcinoma,SMO L515F
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/172/,Basal Cell Carcinoma,SMO P755F
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/165/,Basal Cell Carcinoma,SMO R199W
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/167/,Basal Cell Carcinoma,SMO R485W
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/170/,Basal Cell Carcinoma,SMO R562Q
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/166/,Basal Cell Carcinoma,SMO T349I
+http://mycancergenome.org/content/disease/basal-cell-carcinoma/smo/169/,Basal Cell Carcinoma,SMO W535L
+http://mycancergenome.org/content/disease/bladder-cancer/fgfr3/360/,Bladder Carcinoma,FGFR3 G372C
+http://mycancergenome.org/content/disease/bladder-cancer/fgfr3/361/,Bladder Carcinoma,FGFR3 K652E
+http://mycancergenome.org/content/disease/bladder-cancer/fgfr3/362/,Bladder Carcinoma,FGFR3 K652M
+http://mycancergenome.org/content/disease/bladder-cancer/fgfr3/363/,Bladder Carcinoma,FGFR3 K652Q
+http://mycancergenome.org/content/disease/bladder-cancer/fgfr3/364/,Bladder Carcinoma,FGFR3 K652T
+http://mycancergenome.org/content/disease/bladder-cancer/fgfr3/365/,Bladder Carcinoma,FGFR3 R248C
+http://mycancergenome.org/content/disease/bladder-cancer/fgfr3/366/,Bladder Carcinoma,FGFR3 Y375C
+http://mycancergenome.org/content/disease/bladder-cancer/tsc1/237/,Bladder Carcinoma,TSC1 E636fs
+http://mycancergenome.org/content/disease/breast-cancer/akt1/23/,Breast Carcinoma,AKT1 E17K
+http://mycancergenome.org/content/disease/breast-cancer/ar/311/,Breast Carcinoma,AR Expression
+http://mycancergenome.org/content/disease/breast-cancer/esr1/248/,Breast Carcinoma,ER Expression
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/119/,Breast Carcinoma,ERBB2 Amplification
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/240/,Breast Carcinoma,ERBB2 D769H
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/241/,Breast Carcinoma,ERBB2 D769Y
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/239/,Breast Carcinoma,ERBB2 G309A
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/243/,Breast Carcinoma,ERBB2 G778_P780dup
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/242/,Breast Carcinoma,ERBB2 L755_T759del
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/246/,Breast Carcinoma,ERBB2 L755S
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/238/,Breast Carcinoma,ERBB2 Overexpression
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/245/,Breast Carcinoma,ERBB2 R896C
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/247/,Breast Carcinoma,ERBB2 V777L
+http://mycancergenome.org/content/disease/breast-cancer/erbb2/244/,Breast Carcinoma,ERBB2 V842I
+http://mycancergenome.org/content/disease/breast-cancer/esr1/314/,Breast Carcinoma,ESR1 Mutation
+http://mycancergenome.org/content/disease/breast-cancer/fgfr1/58/,Breast Carcinoma,FGFR1 Amplification
+http://mycancergenome.org/content/disease/breast-cancer/fgfr2/309/,Breast Carcinoma,FGFR2 Amplification
+http://mycancergenome.org/content/disease/breast-cancer/pgr/249/,Breast Carcinoma,PGR Expression
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/20/,Breast Carcinoma,PIK3CA D549N
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/7/,Breast Carcinoma,PIK3CA E542K
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/13/,Breast Carcinoma,PIK3CA E545G
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/8/,Breast Carcinoma,PIK3CA E545K
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/9/,Breast Carcinoma,PIK3CA E545Q
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/14/,Breast Carcinoma,PIK3CA E545V
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/10/,Breast Carcinoma,PIK3CA H1047L
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/11/,Breast Carcinoma,PIK3CA H1047R
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/15/,Breast Carcinoma,PIK3CA Q546E
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/16/,Breast Carcinoma,PIK3CA Q546K
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/17/,Breast Carcinoma,PIK3CA Q546L
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/18/,Breast Carcinoma,PIK3CA Q546P
+http://mycancergenome.org/content/disease/breast-cancer/pik3ca/19/,Breast Carcinoma,PIK3CA Q546R
+http://mycancergenome.org/content/disease/breast-cancer/pten/26/,Breast Carcinoma,PTEN K267fs
+http://mycancergenome.org/content/disease/breast-cancer/pten/24/,Breast Carcinoma,PTEN R159S
+http://mycancergenome.org/content/disease/breast-cancer/pten/25/,Breast Carcinoma,PTEN R233*
+http://mycancergenome.org/content/disease/chronic-lymphocytic-leukemia/birc3/342/,Chronic Lymphocytic Leukemia,BIRC3 Truncating Mutations
+http://mycancergenome.org/content/disease/chronic-lymphocytic-leukemia/notch1/344/,Chronic Lymphocytic Leukemia,NOTCH1 P2514fs
+http://mycancergenome.org/content/disease/chronic-lymphocytic-leukemia/notch1/345/,Chronic Lymphocytic Leukemia,NOTCH1 Truncating Mutations 
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/235/,Chronic Myeloid Leukemia,ABL1 E255K
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/224/,Chronic Myeloid Leukemia,ABL1 E255V
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/230/,Chronic Myeloid Leukemia,ABL1 F317C
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/229/,Chronic Myeloid Leukemia,ABL1 F317I
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/226/,Chronic Myeloid Leukemia,ABL1 F317L
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/227/,Chronic Myeloid Leukemia,ABL1 F317L
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/228/,Chronic Myeloid Leukemia,ABL1 F317L
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/225/,Chronic Myeloid Leukemia,ABL1 F317V
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/223/,Chronic Myeloid Leukemia,ABL1 F359C
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/222/,Chronic Myeloid Leukemia,ABL1 F359I
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/221/,Chronic Myeloid Leukemia,ABL1 F359V
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/232/,Chronic Myeloid Leukemia,ABL1 T315A
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/231/,Chronic Myeloid Leukemia,ABL1 T315I
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/233/,Chronic Myeloid Leukemia,ABL1 V299L
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/234/,Chronic Myeloid Leukemia,ABL1 V299L
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/236/,Chronic Myeloid Leukemia,ABL1 Y253H
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/,Chronic Myeloid Leukemia,BCR-ABL1 Fusion
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/219/,Chronic Myeloid Leukemia,BCR-ABL1 Fusion
+http://mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/220/,Chronic Myeloid Leukemia,BCR-ABL1 Other
+http://mycancergenome.org/content/disease/colorectal-cancer/akt1/23/,Colorectal Carcinoma,AKT1 E17K
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/148/,Colorectal Carcinoma,BRAF D594G
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/149/,Colorectal Carcinoma,BRAF D594V
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/70/,Colorectal Carcinoma,BRAF G466V
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/71/,Colorectal Carcinoma,BRAF G469A
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/146/,Colorectal Carcinoma,BRAF G469E
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/147/,Colorectal Carcinoma,BRAF G469V
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/150/,Colorectal Carcinoma,BRAF G596R
+http://mycancergenome.org/content/disease/colorectal-cancer/braf/54/,Colorectal Carcinoma,BRAF V600E
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/27/,Colorectal Carcinoma,KRAS A146P
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/28/,Colorectal Carcinoma,KRAS A146T
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/29/,Colorectal Carcinoma,KRAS A146V
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/32/,Colorectal Carcinoma,KRAS G12A
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/33/,Colorectal Carcinoma,KRAS G12C
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/34/,Colorectal Carcinoma,KRAS G12D
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/35/,Colorectal Carcinoma,KRAS G12R
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/36/,Colorectal Carcinoma,KRAS G12S
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/37/,Colorectal Carcinoma,KRAS G12V
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/68/,Colorectal Carcinoma,KRAS G13A
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/38/,Colorectal Carcinoma,KRAS G13C
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/39/,Colorectal Carcinoma,KRAS G13D
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/40/,Colorectal Carcinoma,KRAS G13R
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/69/,Colorectal Carcinoma,KRAS G13S
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/159/,Colorectal Carcinoma,KRAS G13V
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/160/,Colorectal Carcinoma,KRAS K117N
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/161/,Colorectal Carcinoma,KRAS K117N
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/44/,Colorectal Carcinoma,KRAS No Mutation Detected
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/347/,Colorectal Carcinoma,KRAS Q22K
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/30/,Colorectal Carcinoma,KRAS Q61H
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/31/,Colorectal Carcinoma,KRAS Q61H
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/41/,Colorectal Carcinoma,KRAS Q61K
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/42/,Colorectal Carcinoma,KRAS Q61L
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/308/,Colorectal Carcinoma,KRAS Q61P
+http://mycancergenome.org/content/disease/colorectal-cancer/kras/43/,Colorectal Carcinoma,KRAS Q61R
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/85/,Colorectal Carcinoma,NRAS G12A
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/86/,Colorectal Carcinoma,NRAS G12C
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/87/,Colorectal Carcinoma,NRAS G12D
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/89/,Colorectal Carcinoma,NRAS G12S
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/90/,Colorectal Carcinoma,NRAS G12V
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/316/,Colorectal Carcinoma,NRAS No Mutation Detected
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/75/,Colorectal Carcinoma,NRAS Q61K
+http://mycancergenome.org/content/disease/colorectal-cancer/nras/77/,Colorectal Carcinoma,NRAS Q61R
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/20/,Colorectal Carcinoma,PIK3CA D549N
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/7/,Colorectal Carcinoma,PIK3CA E542K
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/13/,Colorectal Carcinoma,PIK3CA E545G
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/8/,Colorectal Carcinoma,PIK3CA E545K
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/9/,Colorectal Carcinoma,PIK3CA E545Q
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/14/,Colorectal Carcinoma,PIK3CA E545V
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/10/,Colorectal Carcinoma,PIK3CA H1047L
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/11/,Colorectal Carcinoma,PIK3CA H1047R
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/15/,Colorectal Carcinoma,PIK3CA Q546E
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/16/,Colorectal Carcinoma,PIK3CA Q546K
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/17/,Colorectal Carcinoma,PIK3CA Q546L
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/18/,Colorectal Carcinoma,PIK3CA Q546P
+http://mycancergenome.org/content/disease/colorectal-cancer/pik3ca/19/,Colorectal Carcinoma,PIK3CA Q546R
+http://mycancergenome.org/content/disease/colorectal-cancer/pten/26/,Colorectal Carcinoma,PTEN K267fs
+http://mycancergenome.org/content/disease/colorectal-cancer/pten/24/,Colorectal Carcinoma,PTEN R159S
+http://mycancergenome.org/content/disease/colorectal-cancer/pten/25/,Colorectal Carcinoma,PTEN R233*
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/152/,Colorectal Carcinoma,SMAD4 D351H
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/154/,Colorectal Carcinoma,SMAD4 D351N
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/155/,Colorectal Carcinoma,SMAD4 D355E
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/153/,Colorectal Carcinoma,SMAD4 D537Y
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/151/,Colorectal Carcinoma,SMAD4 E330A
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/157/,Colorectal Carcinoma,SMAD4 R361C
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/158/,Colorectal Carcinoma,SMAD4 R361H
+http://mycancergenome.org/content/disease/colorectal-cancer/smad4/156/,Colorectal Carcinoma,SMAD4 R361S
+http://mycancergenome.org/content/disease/gastric-cancer/erbb2/119/,Gastric Carcinoma,ERBB2 Amplification
+http://mycancergenome.org/content/disease/gist/braf/55/,Gastrointestinal Stromal Tumor,BRAF No Mutation Detected
+http://mycancergenome.org/content/disease/gist/braf/54/,Gastrointestinal Stromal Tumor,BRAF V600E
+http://mycancergenome.org/content/disease/gist/kit/47/,Gastrointestinal Stromal Tumor,KIT Exon 11 Mutation
+http://mycancergenome.org/content/disease/gist/kit/49/,Gastrointestinal Stromal Tumor,KIT Exon 13 Mutation
+http://mycancergenome.org/content/disease/gist/kit/50/,Gastrointestinal Stromal Tumor,KIT Exon 14 Mutation
+http://mycancergenome.org/content/disease/gist/kit/52/,Gastrointestinal Stromal Tumor,KIT Exon 17 Mutation
+http://mycancergenome.org/content/disease/gist/kit/46/,Gastrointestinal Stromal Tumor,KIT Exon 9 Mutation
+http://mycancergenome.org/content/disease/gist/kit/56/,Gastrointestinal Stromal Tumor,KIT No Mutation Detected
+http://mycancergenome.org/content/disease/gist/pdgfra/48/,Gastrointestinal Stromal Tumor,PDGFRA Exon 12 Mutation
+http://mycancergenome.org/content/disease/gist/pdgfra/51/,Gastrointestinal Stromal Tumor,PDGFRA Exon 14 Mutation
+http://mycancergenome.org/content/disease/gist/pdgfra/45/,Gastrointestinal Stromal Tumor,PDGFRA Exon 18 Mutation
+http://mycancergenome.org/content/disease/gist/pdgfra/53/,Gastrointestinal Stromal Tumor,PDGFRA Exon 18 Mutation
+http://mycancergenome.org/content/disease/gist/pdgfra/57/,Gastrointestinal Stromal Tumor,PDGFRA No Mutation Detected
+http://mycancergenome.org/content/disease/glioma/braf/54/,Glioma,BRAF V600E
+http://mycancergenome.org/content/disease/glioma/idh1/260/,Glioma,IDH1 R132C
+http://mycancergenome.org/content/disease/glioma/idh1/261/,Glioma,IDH1 R132G
+http://mycancergenome.org/content/disease/glioma/idh1/263/,Glioma,IDH1 R132H
+http://mycancergenome.org/content/disease/glioma/idh1/264/,Glioma,IDH1 R132L
+http://mycancergenome.org/content/disease/glioma/idh1/262/,Glioma,IDH1 R132S
+http://mycancergenome.org/content/disease/glioma/idh2/317/,Glioma,IDH2 R172G
+http://mycancergenome.org/content/disease/glioma/idh2/270/,Glioma,IDH2 R172K
+http://mycancergenome.org/content/disease/glioma/idh2/271/,Glioma,IDH2 R172M
+http://mycancergenome.org/content/disease/glioma/idh2/272/,Glioma,IDH2 R172S
+http://mycancergenome.org/content/disease/glioma/idh2/319/,Glioma,IDH2 R172S
+http://mycancergenome.org/content/disease/glioma/idh2/318/,Glioma,IDH2 R172W
+http://mycancergenome.org/content/disease/inflammatory-myofibroblastic-tumor/alk/66/,Inflammatory Myofibroblastic Tumor,ALK Fusion
+http://mycancergenome.org/content/disease/medulloblastoma/smo/163/,Medulloblastoma,SMO D473H
+http://mycancergenome.org/content/disease/melanoma/braf/301/,Melanoma,BRAF D594E
+http://mycancergenome.org/content/disease/melanoma/braf/302/,Melanoma,BRAF D594E
+http://mycancergenome.org/content/disease/melanoma/braf/148/,Melanoma,BRAF D594G
+http://mycancergenome.org/content/disease/melanoma/braf/300/,Melanoma,BRAF D594H
+http://mycancergenome.org/content/disease/melanoma/braf/298/,Melanoma,BRAF D594N
+http://mycancergenome.org/content/disease/melanoma/braf/299/,Melanoma,BRAF D594N
+http://mycancergenome.org/content/disease/melanoma/braf/149/,Melanoma,BRAF D594V
+http://mycancergenome.org/content/disease/melanoma/braf/334/,Melanoma,BRAF Fusion
+http://mycancergenome.org/content/disease/melanoma/braf/190/,Melanoma,BRAF K601E
+http://mycancergenome.org/content/disease/melanoma/braf/188/,Melanoma,BRAF L597Q
+http://mycancergenome.org/content/disease/melanoma/braf/138/,Melanoma,BRAF L597R
+http://mycancergenome.org/content/disease/melanoma/braf/189/,Melanoma,BRAF L597S
+http://mycancergenome.org/content/disease/melanoma/braf/73/,Melanoma,BRAF L597V
+http://mycancergenome.org/content/disease/melanoma/braf/114/,Melanoma,BRAF V600D
+http://mycancergenome.org/content/disease/melanoma/braf/111/,Melanoma,BRAF V600E
+http://mycancergenome.org/content/disease/melanoma/braf/54/,Melanoma,BRAF V600E
+http://mycancergenome.org/content/disease/melanoma/braf/115/,Melanoma,BRAF V600G
+http://mycancergenome.org/content/disease/melanoma/braf/116/,Melanoma,BRAF V600K
+http://mycancergenome.org/content/disease/melanoma/braf/117/,Melanoma,BRAF V600M
+http://mycancergenome.org/content/disease/melanoma/braf/118/,Melanoma,BRAF V600R
+http://mycancergenome.org/content/disease/melanoma/ctnnb1/104/,Melanoma,CTNNB1 S37F
+http://mycancergenome.org/content/disease/melanoma/ctnnb1/105/,Melanoma,CTNNB1 S37Y
+http://mycancergenome.org/content/disease/melanoma/ctnnb1/106/,Melanoma,CTNNB1 S45F
+http://mycancergenome.org/content/disease/melanoma/ctnnb1/107/,Melanoma,CTNNB1 S45P
+http://mycancergenome.org/content/disease/melanoma/ctnnb1/108/,Melanoma,CTNNB1 S45Y
+http://mycancergenome.org/content/disease/melanoma/gna11/99/,Melanoma,GNA11 Q209L
+http://mycancergenome.org/content/disease/melanoma/gna11/101/,Melanoma,GNA11 Q209P
+http://mycancergenome.org/content/disease/melanoma/gna11/335/,Melanoma,GNA11 R183C
+http://mycancergenome.org/content/disease/melanoma/gna11/336/,Melanoma,GNA11 R183C
+http://mycancergenome.org/content/disease/melanoma/gnaq/100/,Melanoma,GNAQ Q209L
+http://mycancergenome.org/content/disease/melanoma/gnaq/102/,Melanoma,GNAQ Q209P
+http://mycancergenome.org/content/disease/melanoma/gnaq/103/,Melanoma,GNAQ Q209R
+http://mycancergenome.org/content/disease/melanoma/gnaq/337/,Melanoma,GNAQ R183Q
+http://mycancergenome.org/content/disease/melanoma/kit/338/,Melanoma,KIT Amplification
+http://mycancergenome.org/content/disease/melanoma/kit/84/,Melanoma,KIT D816H
+http://mycancergenome.org/content/disease/melanoma/kit/95/,Melanoma,KIT K642E
+http://mycancergenome.org/content/disease/melanoma/kit/96/,Melanoma,KIT L576P
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT Other
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT V654A
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT A829P
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT D816V
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT D820V
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT D820Y
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT N822Y
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT N822I
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT N822K
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT V559G
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT V560A
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT V560D
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT V560G
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT K558N
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT E554_K558del
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT E554_V559del
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT N566_D572del
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT N566_T574del
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT D579del
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT Q556_W557insL
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT K550N
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT Y553N
+http://mycancergenome.org/content/disease/melanoma/kit/132/,Melanoma,KIT K558N
+http://mycancergenome.org/content/disease/melanoma/kit/112/,Melanoma,KIT V559A
+http://mycancergenome.org/content/disease/melanoma/kit/113/,Melanoma,KIT V559D
+http://mycancergenome.org/content/disease/melanoma/kit/109/,Melanoma,KIT W557R
+http://mycancergenome.org/content/disease/melanoma/kit/110/,Melanoma,KIT W557R
+http://mycancergenome.org/content/disease/melanoma/map2k1/212/,Melanoma,MAP2K1 C121S
+http://mycancergenome.org/content/disease/melanoma/map2k1/215/,Melanoma,MAP2K1 E203K
+http://mycancergenome.org/content/disease/melanoma/map2k1/210/,Melanoma,MAP2K1 F53L
+http://mycancergenome.org/content/disease/melanoma/map2k1/211/,Melanoma,MAP2K1 I111S
+http://mycancergenome.org/content/disease/melanoma/map2k1/217/,Melanoma,MAP2K1 N382H
+http://mycancergenome.org/content/disease/melanoma/map2k1/213/,Melanoma,MAP2K1 P124L
+http://mycancergenome.org/content/disease/melanoma/map2k1/214/,Melanoma,MAP2K1 P124S
+http://mycancergenome.org/content/disease/melanoma/map2k1/216/,Melanoma,MAP2K1 P264S
+http://mycancergenome.org/content/disease/melanoma/nf1/325/,Melanoma,NF1 Mutation
+http://mycancergenome.org/content/disease/melanoma/nras/85/,Melanoma,NRAS G12A
+http://mycancergenome.org/content/disease/melanoma/nras/86/,Melanoma,NRAS G12C
+http://mycancergenome.org/content/disease/melanoma/nras/87/,Melanoma,NRAS G12D
+http://mycancergenome.org/content/disease/melanoma/nras/88/,Melanoma,NRAS G12R
+http://mycancergenome.org/content/disease/melanoma/nras/89/,Melanoma,NRAS G12S
+http://mycancergenome.org/content/disease/melanoma/nras/90/,Melanoma,NRAS G12V
+http://mycancergenome.org/content/disease/melanoma/nras/91/,Melanoma,NRAS G13A
+http://mycancergenome.org/content/disease/melanoma/nras/297/,Melanoma,NRAS G13C
+http://mycancergenome.org/content/disease/melanoma/nras/92/,Melanoma,NRAS G13D
+http://mycancergenome.org/content/disease/melanoma/nras/93/,Melanoma,NRAS G13R
+http://mycancergenome.org/content/disease/melanoma/nras/94/,Melanoma,NRAS G13V
+http://mycancergenome.org/content/disease/melanoma/nras/97/,Melanoma,NRAS Q61E
+http://mycancergenome.org/content/disease/melanoma/nras/80/,Melanoma,NRAS Q61H
+http://mycancergenome.org/content/disease/melanoma/nras/81/,Melanoma,NRAS Q61H
+http://mycancergenome.org/content/disease/melanoma/nras/75/,Melanoma,NRAS Q61K
+http://mycancergenome.org/content/disease/melanoma/nras/76/,Melanoma,NRAS Q61L
+http://mycancergenome.org/content/disease/melanoma/nras/83/,Melanoma,NRAS Q61L
+http://mycancergenome.org/content/disease/melanoma/nras/98/,Melanoma,NRAS Q61P
+http://mycancergenome.org/content/disease/melanoma/nras/77/,Melanoma,NRAS Q61R
+http://mycancergenome.org/content/disease/melanoma/nras/82/,Melanoma,NRAS Q61R
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/asxl1/320/,Myelodysplastic Syndromes,ASXL1 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/bcor/321/,Myelodysplastic Syndromes,BCOR Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/dnmt3a/322/,Myelodysplastic Syndromes,DNMT3A Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/etv6/323/,Myelodysplastic Syndromes,ETV6 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/ezh2/324/,Myelodysplastic Syndromes,EZH2 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/nf1/325/,Myelodysplastic Syndromes,NF1 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/runx1/326/,Myelodysplastic Syndromes,RUNX1 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/sf3b1/327/,Myelodysplastic Syndromes,SF3B1 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/srsf2/328/,Myelodysplastic Syndromes,SRSF2 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/stag2/329/,Myelodysplastic Syndromes,STAG2 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/tet2/330/,Myelodysplastic Syndromes,TET2 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/tp53/331/,Myelodysplastic Syndromes,TP53 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/u2af1/332/,Myelodysplastic Syndromes,U2AF1 Mutation
+http://mycancergenome.org/content/disease/myelodysplastic-syndromes/zrsr2/333/,Myelodysplastic Syndromes,ZRSR2 Mutation
+http://mycancergenome.org/content/disease/neuroblastoma/alk/173/,Neuroblastoma,ALK D1091N
+http://mycancergenome.org/content/disease/neuroblastoma/alk/176/,Neuroblastoma,ALK F1174C
+http://mycancergenome.org/content/disease/neuroblastoma/alk/177/,Neuroblastoma,ALK F1174I
+http://mycancergenome.org/content/disease/neuroblastoma/alk/178/,Neuroblastoma,ALK F1174L
+http://mycancergenome.org/content/disease/neuroblastoma/alk/179/,Neuroblastoma,ALK F1174V
+http://mycancergenome.org/content/disease/neuroblastoma/alk/180/,Neuroblastoma,ALK F1245C
+http://mycancergenome.org/content/disease/neuroblastoma/alk/181/,Neuroblastoma,ALK F1245L
+http://mycancergenome.org/content/disease/neuroblastoma/alk/182/,Neuroblastoma,ALK F1245V
+http://mycancergenome.org/content/disease/neuroblastoma/alk/175/,Neuroblastoma,ALK I1171N
+http://mycancergenome.org/content/disease/neuroblastoma/alk/183/,Neuroblastoma,ALK R1275Q
+http://mycancergenome.org/content/disease/neuroblastoma/alk/174/,Neuroblastoma,ALK T1151M
+http://mycancergenome.org/content/disease/neuroblastoma/alk/184/,Neuroblastoma,ALK Y1278S
+http://mycancergenome.org/content/disease/lung-cancer/akt1/23/,Non-Small Cell Lung Carcinoma,AKT1 E17K
+http://mycancergenome.org/content/disease/lung-cancer/alk/66/,Non-Small Cell Lung Carcinoma,ALK Fusion
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK Mutation
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK G1202R
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK S1206Y
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK G1269A
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK F1174L
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK C1156Y
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK L1152R
+http://mycancergenome.org/content/disease/lung-cancer/alk/139/,Non-Small Cell Lung Carcinoma,ALK L1196M
+http://mycancergenome.org/content/disease/lung-cancer/braf/70/,Non-Small Cell Lung Carcinoma,BRAF G466V
+http://mycancergenome.org/content/disease/lung-cancer/braf/71/,Non-Small Cell Lung Carcinoma,BRAF G469A
+http://mycancergenome.org/content/disease/lung-cancer/braf/310/,Non-Small Cell Lung Carcinoma,BRAF G469L
+http://mycancergenome.org/content/disease/lung-cancer/braf/73/,Non-Small Cell Lung Carcinoma,BRAF L597V
+http://mycancergenome.org/content/disease/lung-cancer/braf/54/,Non-Small Cell Lung Carcinoma,BRAF V600E
+http://mycancergenome.org/content/disease/lung-cancer/braf/209/,Non-Small Cell Lung Carcinoma,BRAF Y472C
+http://mycancergenome.org/content/disease/lung-cancer/ddr2/78/,Non-Small Cell Lung Carcinoma,DDR2 S768R
+http://mycancergenome.org/content/disease/lung-cancer/egfr/312/,Non-Small Cell Lung Carcinoma,EGFR A763_Y764insFQEA
+http://mycancergenome.org/content/disease/lung-cancer/egfr/21/,Non-Small Cell Lung Carcinoma,EGFR Exon 19 Deletion
+http://mycancergenome.org/content/disease/lung-cancer/egfr/135/,Non-Small Cell Lung Carcinoma,EGFR Exon 19 Insertion
+http://mycancergenome.org/content/disease/lung-cancer/egfr/64/,Non-Small Cell Lung Carcinoma,EGFR Exon 20 Insertion
+http://mycancergenome.org/content/disease/lung-cancer/egfr/1/,Non-Small Cell Lung Carcinoma,EGFR G719A
+http://mycancergenome.org/content/disease/lung-cancer/egfr/2/,Non-Small Cell Lung Carcinoma,EGFR G719C
+http://mycancergenome.org/content/disease/lung-cancer/egfr/3/,Non-Small Cell Lung Carcinoma,EGFR G719S
+http://mycancergenome.org/content/disease/lung-cancer/egfr/339/,Non-Small Cell Lung Carcinoma,EGFR Kinase Domain Duplication
+http://mycancergenome.org/content/disease/lung-cancer/egfr/5/,Non-Small Cell Lung Carcinoma,EGFR L858R
+http://mycancergenome.org/content/disease/lung-cancer/egfr/6/,Non-Small Cell Lung Carcinoma,EGFR L861Q
+http://mycancergenome.org/content/disease/lung-cancer/egfr/79/,Non-Small Cell Lung Carcinoma,EGFR No Mutation Detected
+http://mycancergenome.org/content/disease/lung-cancer/egfr/348/,Non-Small Cell Lung Carcinoma,EGFR S768I
+http://mycancergenome.org/content/disease/lung-cancer/egfr/313/,Non-Small Cell Lung Carcinoma,EGFR Status Unknown
+http://mycancergenome.org/content/disease/lung-cancer/egfr/4/,Non-Small Cell Lung Carcinoma,EGFR T790M
+http://mycancergenome.org/content/disease/lung-cancer/erbb2/65/,Non-Small Cell Lung Carcinoma,ERBB2 Exon 20 Insertion
+http://mycancergenome.org/content/disease/lung-cancer/fgfr1/58/,Non-Small Cell Lung Carcinoma,FGFR1 Amplification
+http://mycancergenome.org/content/disease/lung-cancer/fgfr3/341/,Non-Small Cell Lung Carcinoma,FGFR3 Fusion
+http://mycancergenome.org/content/disease/lung-cancer/kras/32/,Non-Small Cell Lung Carcinoma,KRAS G12A
+http://mycancergenome.org/content/disease/lung-cancer/kras/33/,Non-Small Cell Lung Carcinoma,KRAS G12C
+http://mycancergenome.org/content/disease/lung-cancer/kras/34/,Non-Small Cell Lung Carcinoma,KRAS G12D
+http://mycancergenome.org/content/disease/lung-cancer/kras/35/,Non-Small Cell Lung Carcinoma,KRAS G12R
+http://mycancergenome.org/content/disease/lung-cancer/kras/36/,Non-Small Cell Lung Carcinoma,KRAS G12S
+http://mycancergenome.org/content/disease/lung-cancer/kras/37/,Non-Small Cell Lung Carcinoma,KRAS G12V
+http://mycancergenome.org/content/disease/lung-cancer/kras/68/,Non-Small Cell Lung Carcinoma,KRAS G13A
+http://mycancergenome.org/content/disease/lung-cancer/kras/38/,Non-Small Cell Lung Carcinoma,KRAS G13C
+http://mycancergenome.org/content/disease/lung-cancer/kras/39/,Non-Small Cell Lung Carcinoma,KRAS G13D
+http://mycancergenome.org/content/disease/lung-cancer/kras/40/,Non-Small Cell Lung Carcinoma,KRAS G13R
+http://mycancergenome.org/content/disease/lung-cancer/kras/69/,Non-Small Cell Lung Carcinoma,KRAS G13S
+http://mycancergenome.org/content/disease/lung-cancer/kras/30/,Non-Small Cell Lung Carcinoma,KRAS Q61H
+http://mycancergenome.org/content/disease/lung-cancer/kras/31/,Non-Small Cell Lung Carcinoma,KRAS Q61H
+http://mycancergenome.org/content/disease/lung-cancer/kras/41/,Non-Small Cell Lung Carcinoma,KRAS Q61K
+http://mycancergenome.org/content/disease/lung-cancer/kras/42/,Non-Small Cell Lung Carcinoma,KRAS Q61L
+http://mycancergenome.org/content/disease/lung-cancer/kras/43/,Non-Small Cell Lung Carcinoma,KRAS Q61R
+http://mycancergenome.org/content/disease/lung-cancer/map2k1/60/,Non-Small Cell Lung Carcinoma,MAP2K1 D67N
+http://mycancergenome.org/content/disease/lung-cancer/map2k1/72/,Non-Small Cell Lung Carcinoma,MAP2K1 K57N
+http://mycancergenome.org/content/disease/lung-cancer/map2k1/74/,Non-Small Cell Lung Carcinoma,MAP2K1 Q56P
+http://mycancergenome.org/content/disease/lung-cancer/met/59/,Non-Small Cell Lung Carcinoma,MET Amplification
+http://mycancergenome.org/content/disease/lung-cancer/met/343/,Non-Small Cell Lung Carcinoma,MET Exon 14 Skipping
+http://mycancergenome.org/content/disease/lung-cancer/nras/85/,Non-Small Cell Lung Carcinoma,NRAS G12A
+http://mycancergenome.org/content/disease/lung-cancer/nras/86/,Non-Small Cell Lung Carcinoma,NRAS G12C
+http://mycancergenome.org/content/disease/lung-cancer/nras/87/,Non-Small Cell Lung Carcinoma,NRAS G12D
+http://mycancergenome.org/content/disease/lung-cancer/nras/88/,Non-Small Cell Lung Carcinoma,NRAS G12R
+http://mycancergenome.org/content/disease/lung-cancer/nras/89/,Non-Small Cell Lung Carcinoma,NRAS G12S
+http://mycancergenome.org/content/disease/lung-cancer/nras/80/,Non-Small Cell Lung Carcinoma,NRAS Q61H
+http://mycancergenome.org/content/disease/lung-cancer/nras/81/,Non-Small Cell Lung Carcinoma,NRAS Q61H
+http://mycancergenome.org/content/disease/lung-cancer/nras/75/,Non-Small Cell Lung Carcinoma,NRAS Q61K
+http://mycancergenome.org/content/disease/lung-cancer/nras/76/,Non-Small Cell Lung Carcinoma,NRAS Q61L
+http://mycancergenome.org/content/disease/lung-cancer/nras/77/,Non-Small Cell Lung Carcinoma,NRAS Q61R
+http://mycancergenome.org/content/disease/lung-cancer/ntrk1/315/,Non-Small Cell Lung Carcinoma,NTRK1 (TRKA) Fusions
+https://www.mycancergenome.org/content/disease/lung-cancer/cd274/359/,Non-Small Cell Lung Carcinoma,PD-L1 Expression
+http://mycancergenome.org/content/disease/lung-cancer/pik3ca/7/,Non-Small Cell Lung Carcinoma,PIK3CA E542K
+http://mycancergenome.org/content/disease/lung-cancer/pik3ca/8/,Non-Small Cell Lung Carcinoma,PIK3CA E545K
+http://mycancergenome.org/content/disease/lung-cancer/pik3ca/9/,Non-Small Cell Lung Carcinoma,PIK3CA E545Q
+http://mycancergenome.org/content/disease/lung-cancer/pik3ca/10/,Non-Small Cell Lung Carcinoma,PIK3CA H1047L
+http://mycancergenome.org/content/disease/lung-cancer/pik3ca/11/,Non-Small Cell Lung Carcinoma,PIK3CA H1047R
+http://mycancergenome.org/content/disease/lung-cancer/pten/25/,Non-Small Cell Lung Carcinoma,PTEN R233*
+http://mycancergenome.org/content/disease/lung-cancer/ret/127/,Non-Small Cell Lung Carcinoma,RET Fusion
+http://mycancergenome.org/content/disease/lung-cancer/rictor/340/,Non-Small Cell Lung Carcinoma,RICTOR Amplification
+http://mycancergenome.org/content/disease/lung-cancer/ros1/67/,Non-Small Cell Lung Carcinoma,ROS1 Fusion
+http://mycancergenome.org/content/disease/lung-cancer/ros1/346/,Non-Small Cell Lung Carcinoma,ROS1 Mutation
+http://mycancergenome.org/content/disease/lung-cancer/ros1/346/,Non-Small Cell Lung Carcinoma,ROS1 G2032R
+http://mycancergenome.org/content/disease/lung-cancer/ros1/346/,Non-Small Cell Lung Carcinoma,ROS1 G2033N
+http://mycancergenome.org/content/disease/lung-cancer/ros1/346/,Non-Small Cell Lung Carcinoma,ROS1 L2155S
+http://mycancergenome.org/content/disease/ovarian-cancer/braf/138/,Ovarian Cancer,BRAF L597R
+http://mycancergenome.org/content/disease/ovarian-cancer/braf/54/,Ovarian Cancer,BRAF V600E
+http://mycancergenome.org/content/disease/ovarian-cancer/kras/32/,Ovarian Cancer,KRAS G12A
+http://mycancergenome.org/content/disease/ovarian-cancer/kras/33/,Ovarian Cancer,KRAS G12C
+http://mycancergenome.org/content/disease/ovarian-cancer/kras/34/,Ovarian Cancer,KRAS G12D
+http://mycancergenome.org/content/disease/ovarian-cancer/kras/35/,Ovarian Cancer,KRAS G12R
+http://mycancergenome.org/content/disease/ovarian-cancer/kras/37/,Ovarian Cancer,KRAS G12V
+http://mycancergenome.org/content/disease/ovarian-cancer/kras/39/,Ovarian Cancer,KRAS G13D
+http://mycancergenome.org/content/disease/ovarian-cancer/pik3ca/7/,Ovarian Cancer,PIK3CA E542K
+http://mycancergenome.org/content/disease/ovarian-cancer/pik3ca/8/,Ovarian Cancer,PIK3CA E545K
+http://mycancergenome.org/content/disease/ovarian-cancer/pik3ca/10/,Ovarian Cancer,PIK3CA H1047L
+http://mycancergenome.org/content/disease/ovarian-cancer/pik3ca/11/,Ovarian Cancer,PIK3CA H1047R
+http://mycancergenome.org/content/disease/ovarian-cancer/pik3ca/16/,Ovarian Cancer,PIK3CA Q546K
+http://mycancergenome.org/content/disease/ovarian-cancer/pten/140/,Ovarian Cancer,PTEN N323fs
+http://mycancergenome.org/content/disease/ovarian-cancer/pten/141/,Ovarian Cancer,PTEN N323fs
+http://mycancergenome.org/content/disease/ovarian-cancer/pten/142/,Ovarian Cancer,PTEN P248fs
+http://mycancergenome.org/content/disease/ovarian-cancer/pten/137/,Ovarian Cancer,PTEN R130*
+http://mycancergenome.org/content/disease/ovarian-cancer/pten/143/,Ovarian Cancer,PTEN R130fs
+http://mycancergenome.org/content/disease/ovarian-cancer/pten/145/,Ovarian Cancer,PTEN R130G
+http://mycancergenome.org/content/disease/ovarian-cancer/pten/144/,Ovarian Cancer,PTEN R130Q
+http://mycancergenome.org/content/disease/prostate-cancer/ar/354/,Prostate Carcinoma,AR Amplification
+http://mycancergenome.org/content/disease/prostate-cancer/ar/349/,Prostate Carcinoma,AR F877L
+http://mycancergenome.org/content/disease/prostate-cancer/ar/352/,Prostate Carcinoma,AR H875Y
+http://mycancergenome.org/content/disease/prostate-cancer/ar/351/,Prostate Carcinoma,AR L702H
+https://www.mycancergenome.org/content/disease/prostate-cancer/ar/355/,Prostate Carcinoma,AR Splice Variant 7 Expression
+http://mycancergenome.org/content/disease/prostate-cancer/ar/350/,Prostate Carcinoma,AR T878A
+http://mycancergenome.org/content/disease/prostate-cancer/ar/353/,Prostate Carcinoma,AR W742C
+http://mycancergenome.org/content/disease/rhabdomyosarcoma/alk/187/,Rhabdomyosarcoma,ALK D1225N
+http://mycancergenome.org/content/disease/rhabdomyosarcoma/alk/186/,Rhabdomyosarcoma,ALK Exon Deletion
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/120/,Thymic Carcinoma,KIT D820E
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/218/,Thymic Carcinoma,KIT E490K
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/121/,Thymic Carcinoma,KIT H697Y
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/96/,Thymic Carcinoma,KIT L576P
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/122/,Thymic Carcinoma,KIT P577_D579del
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/112/,Thymic Carcinoma,KIT V559A
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/123/,Thymic Carcinoma,KIT V560del
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/110/,Thymic Carcinoma,KIT W557R
+http://mycancergenome.org/content/disease/thymic-carcinoma/kit/124/,Thymic Carcinoma,KIT Y553N
+http://mycancergenome.org/content/disease/thyroid-cancer/braf/125/,Thyroid Gland Medullary Carcinoma,AKAP-BRAF Translocation
+http://mycancergenome.org/content/disease/thyroid-cancer/braf/54/,Thyroid Gland Medullary Carcinoma,BRAF V600E
+http://mycancergenome.org/content/disease/thyroid-cancer/hras/303/,Thyroid Gland Medullary Carcinoma,HRAS G12R
+http://mycancergenome.org/content/disease/thyroid-cancer/hras/304/,Thyroid Gland Medullary Carcinoma,HRAS G12V
+http://mycancergenome.org/content/disease/thyroid-cancer/hras/305/,Thyroid Gland Medullary Carcinoma,HRAS G13C
+http://mycancergenome.org/content/disease/thyroid-cancer/hras/306/,Thyroid Gland Medullary Carcinoma,HRAS G13R
+http://mycancergenome.org/content/disease/thyroid-cancer/hras/307/,Thyroid Gland Medullary Carcinoma,HRAS Q61R
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/29/,Thyroid Gland Medullary Carcinoma,KRAS A146V
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/32/,Thyroid Gland Medullary Carcinoma,KRAS G12A
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/33/,Thyroid Gland Medullary Carcinoma,KRAS G12C
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/34/,Thyroid Gland Medullary Carcinoma,KRAS G12D
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/35/,Thyroid Gland Medullary Carcinoma,KRAS G12R
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/36/,Thyroid Gland Medullary Carcinoma,KRAS G12S
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/37/,Thyroid Gland Medullary Carcinoma,KRAS G12V
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/39/,Thyroid Gland Medullary Carcinoma,KRAS G13D
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/40/,Thyroid Gland Medullary Carcinoma,KRAS G13R
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/69/,Thyroid Gland Medullary Carcinoma,KRAS G13S
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/41/,Thyroid Gland Medullary Carcinoma,KRAS Q61K
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/42/,Thyroid Gland Medullary Carcinoma,KRAS Q61L
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/308/,Thyroid Gland Medullary Carcinoma,KRAS Q61P
+http://mycancergenome.org/content/disease/thyroid-cancer/kras/43/,Thyroid Gland Medullary Carcinoma,KRAS Q61R
+http://mycancergenome.org/content/disease/thyroid-cancer/nras/75/,Thyroid Gland Medullary Carcinoma,NRAS Q61K
+http://mycancergenome.org/content/disease/thyroid-cancer/nras/77/,Thyroid Gland Medullary Carcinoma,NRAS Q61R
+http://mycancergenome.org/content/disease/thyroid-cancer/ret/126/,Thyroid Gland Medullary Carcinoma,RET C634 Mutations
+http://mycancergenome.org/content/disease/thyroid-cancer/ret/127/,Thyroid Gland Medullary Carcinoma,RET Fusion
+http://mycancergenome.org/content/disease/thyroid-cancer/ret/128/,Thyroid Gland Medullary Carcinoma,RET M918T
